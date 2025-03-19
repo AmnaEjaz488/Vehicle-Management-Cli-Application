@@ -1,13 +1,11 @@
 # Vehicle Management CLI Application
 
 ## User Story
-
 AS a developer  
 I WANT to update an existing application to include additional vehicle types  
 SO THAT I am able to comprehend and work with existing code bases.
 
 ## Acceptance Criteria
-
 GIVEN a command-line application that accepts user input  
 WHEN I am prompted to create a new vehicle or select an existing vehicle  
 THEN I can choose between the two options  
@@ -36,14 +34,14 @@ THEN I can perform additional actions until I choose to exit
 ## Installation
 
 1. Clone the repository:
-   
+2. 
     git clone https://github.com/your-username/vehicle-management-cli.git
   
-2. Navigate to the project directory:
+3. Navigate to the project directory:
     
     cd vehicle-management-cli
  
-3. Install the dependencies:
+4. Install the dependencies:
   
     npm install
  
